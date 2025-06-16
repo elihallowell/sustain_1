@@ -1,0 +1,4 @@
+You need the entire pysustain folder from the below url to run these notebooks
+https://github.com/ucl-pond/pySuStaIn.git
+Upload and run the notebooks in the notebook folder of the pysustain folder and all functionality should be there
+I'm using each pysustain folder from above as a separate environment, but I'm only uploading the notebooks changes I run or edit
